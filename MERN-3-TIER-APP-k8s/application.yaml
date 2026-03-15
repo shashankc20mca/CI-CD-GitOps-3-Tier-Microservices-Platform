@@ -7,9 +7,9 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/shashankc20mca/MERN-3-TIER-APP-k8s-
-    targetRevision: HEAD
-    path: .
+    repoURL: https://github.com/shashankc20mca/CI-CD-GitOps-3-Tier-Microservices-Platform.git
+    targetRevision: main
+    path: MERN-3-TIER-APP-k8s
   destination:
     server: https://kubernetes.default.svc
     namespace: default
