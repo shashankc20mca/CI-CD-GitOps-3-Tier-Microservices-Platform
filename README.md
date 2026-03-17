@@ -1,6 +1,6 @@
 # CI-CD-GitOps-3-Tier-Microservices-Platform
 <p align="center">
-  <img src="images/cicd.png" alt="CI/CD Architecture" width="600"/>
+  <img src="images/cicd-removebg-preview.png" alt="CI/CD Architecture" width="600"/>
 </p>
 
 
