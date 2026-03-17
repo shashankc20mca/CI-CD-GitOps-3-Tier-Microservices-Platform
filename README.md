@@ -1,5 +1,5 @@
 # CI-CD-GitOps-3-Tier-Microservices-Platform
-
+- [Steps to run the project](steps.md)
 - [project-screenshots](https://github.com/shashankc20mca/CI-CD-GitOps-3-Tier-Microservices-Platform/tree/main/images)
 
 ![Architecture](images/cicd.png)
