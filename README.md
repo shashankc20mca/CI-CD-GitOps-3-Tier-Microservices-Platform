@@ -2,7 +2,7 @@
 CI/CD GitOps 3-Tier Microservices Platform
 ![Architecture](images/cicd.png)
 
-Project Overview
+__Project Overview__
 This project demonstrates the deployment of a containerized 3-tier application on Kubernetes using a complete DevOps workflow. The implementation includes Docker for containerization, Docker Compose for local testing, Jenkins for CI, Argo CD for CD, Kubernetes manifests for deployment, and AWS EKS provisioned using eksctl. The primary focus was to build hands-on experience in containerization, CI/CD, and Kubernetes deployment.
 
 The application follows a 3-tier architecture consisting of:
