@@ -159,4 +159,4 @@ Possible improvements for this project include:
 6. Cluster Node Autoscaler for automatically adjusting worker nodes based on workload demand
 7. Canary deployment strategy for safer and gradual application releases
 
-These enhancements are implemented more deeply in my advanced project: Enterprise GitOps Platform: Automated EKS Infrastructure and 3-Tier Microservices, where the focus shifts from basic deployment to more production-oriented infrastructure automation, security, scalability, and release management.
+These enhancements are implemented more deeply in my advanced project: **[Enterprise GitOps Platform: Automated EKS Infrastructure and 3-Tier Microservices](https://github.com/shashankc20mca/Enterprise-GitOps-Platform-Automated-EKS-Infrastructure-and-3-Tier-Microservices)**, where the focus shifts from basic deployment to more production-oriented infrastructure automation, security, scalability, and release management.
