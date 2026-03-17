@@ -2,6 +2,8 @@
 <p align="center">
   <img src="images/cicd.png" alt="CI/CD Architecture" width="900"/>
 </p>
+
+
 # Project Overview
 
 This project demonstrates the deployment of a containerized 3-tier application on Kubernetes using a complete DevOps workflow. The implementation includes Docker for containerization, Docker Compose for local testing, Jenkins for CI, Argo CD for CD, Kubernetes manifests for deployment, and AWS EKS provisioned using eksctl. The primary focus was to build hands-on experience in containerization, CI/CD, and Kubernetes deployment.
